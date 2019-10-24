@@ -13,5 +13,6 @@ namespace Demo_App
     /// </summary>
     public partial class App : Application
     {
+        // This is a comment to show I've made a change.
     }
 }
